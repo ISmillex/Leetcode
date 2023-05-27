@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/best_time_to_buy_and_sell_stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/climbing_stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/intersection_of_two_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/is_subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/linked_list_cycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/longest_common_prefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/majority_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/merge_sorted_arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/merge_two_sorted_linkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/move_zeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/palindrome_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pangram_sentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pascal_triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/perfect_squares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/remove_duplicates_from_sorted_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/remove_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/roman_to_integers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/search_insert_position" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/single_number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/valid_palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/valid_parentheses" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
